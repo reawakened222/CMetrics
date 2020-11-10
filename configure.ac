@@ -1,5 +1,5 @@
 AC_INIT([cmetrics],[0.2], [libresoft-tools-devel@lists.morfeo-project.org])
-AM_INIT_AUTOMAKE([1.11])
+AM_INIT_AUTOMAKE([1.16])
 
 AC_PROG_CC
 AM_PROG_CC_STDC
